@@ -24,24 +24,3 @@ This project reimplements the core features of the original UIKit version, pushi
   <img src="https://github.com/user-attachments/assets/5564dc9b-8a9b-426a-8417-5d2bc5b0b2c8" width="150" />
 </p>
 
-
----
-
-## 🔧 Technologies Used
-
-- SwiftUI
-- Combine
-- Swift Concurrency (async/await)
-- Clean Architecture
-- Modular structure
-- Custom reusable components
-- Swift Package Manager (SPM)
-
----
-
-## 🧪 Coming Soon
-
-- ✅ Unit & UI Testing (Using `XCTest` & `ViewInspector`)
-- 🌐 API Integration with real banking flows
-- 🛡️ Security enhancements
-- 🇸🇦 Arabic localization (RTL support)
