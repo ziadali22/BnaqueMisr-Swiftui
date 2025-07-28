@@ -23,15 +23,7 @@ This project reimplements the core features of the original UIKit version, pushi
   <img src="https://github.com/user-attachments/assets/3bcf7121-910b-401d-a6f9-1412bfcdf102" width="150" />
   <img src="https://github.com/user-attachments/assets/5564dc9b-8a9b-426a-8417-5d2bc5b0b2c8" width="150" />
 </p>
----
 
-## 🧱 Architecture
-
-- **Presentation Layer**: SwiftUI views, ViewModels with Combine
-- **Domain Layer**: Business logic with Use Cases and Models
-- **Data Layer**: Repositories and DataSources (mocked or real API)
-
-Built using **SOLID** principles, **dependency injection**, and **testability** in mind.
 
 ---
 
